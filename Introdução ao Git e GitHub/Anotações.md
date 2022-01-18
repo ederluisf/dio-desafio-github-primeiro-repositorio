@@ -6,6 +6,8 @@
 
 
 ### Links Úteis
-[Git downloads](https://git-scm.com/downloads)
+[Git Downloads](https://git-scm.com/downloads)
+
+[Git Documentation](https://git-scm.com/doc)
 
 ----------
